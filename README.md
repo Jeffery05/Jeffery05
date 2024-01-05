@@ -5,7 +5,7 @@
 
 📚 In the past, I’ve developed full-stack applications using Python, Java, JavaScript/TypeScript, HTML/CSS, SQL, C/C++
 
-💻 In the future, my dream is to leverage my computer programming and business skills to develop transformative products that solve pressing issues.
+💻 In the future, my dream is to work with technology to develop transformative products that solve pressing issues.
 
 🍽️ In my free time, I like to compete in hackathons, case competitions and sports. 
 
