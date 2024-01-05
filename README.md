@@ -10,6 +10,8 @@
 🍽️ In my free time, I like to compete in hackathons, case competitions and sports. 
 
 🌎 I love exploring new places and meeting new people!
+
+⚡To see some of the projects I've been working on, check out my website! https://jefferyhu.me/
 <!--
 **Jeffery05/Jeffery05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
