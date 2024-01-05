@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Jeffery! 👋
 
+
+🎓 Currently I am studying Computer Science and Business Administration (Double Degree) at the University of Waterloo!
+
+📚 In the past, I’ve developed full-stack applications using Python, Java, JavaScript/TypeScript, HTML/CSS, SQL, C/C++
+
+💻 In the future, my dream is to leverage my computer programming and business skills to develop transformative products that solve pressing issues.
+
+🍽️ In my free time, I like to compete in hackathons, case competitions and sports. 
+
+🌎 I love exploring new places and meeting new people!
 <!--
 **Jeffery05/Jeffery05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
